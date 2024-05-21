@@ -1,0 +1,36 @@
+# 2024/04/17
+
+## ゲーム組
+
+- ウェブAPI（仮）を作成する
+- Dockerのインストール
+    
+    Docker Desktopアプリケーションをインストールする
+    
+    [Docker Desktop: 開発者向けの#1コンテナ化ツール | Docker](https://www.docker.com/ja-jp/products/docker-desktop/)
+    
+- ngrockのアカウント作成
+    
+    下記サービスのアカウントを作成する
+    
+    [ngrok | Unified Application Delivery Platform for Developers](https://ngrok.com/)
+    
+- LaravelのDockerComposeテンプレートをダウンロード
+    
+    下記Githubからプロジェクトファイルをダウンロードする
+    
+    https://github.com/fw-cat/Laravel-Composer-Template
+    
+- Laravel-DockerComposeを起動
+    
+    ダウンロードしたプロジェクトファイルを解凍してVSCodeで開く
+    
+    VSCodeのTerminalにて下記のコマンドを実行してDocker Composeを起動させる
+    
+    ```bash
+    $ docker compose up -d
+    ```
+    
+- ngrockをインストール
+    
+    下記サイトを参考にmac上にngrockの環境を構築する
